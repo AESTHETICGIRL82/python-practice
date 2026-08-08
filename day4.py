@@ -49,6 +49,5 @@ def factorial(n):
     
 def average(s):
     return sum(s)/len(s)
-
     
 
